@@ -1,2 +1,71 @@
-# 0c1677df-project-management-code-snippe
-You shouldn't need alt-tabbing out of your code 40 times a day to stay in flow state and ship faster.  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Project Management Code Snippets And Boilerplate Generator — fully confi
+# Project Management Code Snippets and Boilerplate Generator VS Code Extension
+
+> 500+ pre-built code patterns, auto-complete, and project scaffolding for Project Management. Domain-specific intelligence no generic copilot has.
+
+## Features
+
+- Core functionality
+
+## Installation
+
+### From VS Code Marketplace
+1. Open VS Code
+2. Press `Ctrl+P` (or `Cmd+P` on Mac)
+3. Type `ext install digitalforge.0c1677df`
+4. Press Enter
+
+### From VSIX file
+1. Download the `.vsix` file
+2. In VS Code: `Extensions > ··· > Install from VSIX`
+3. Select the downloaded file
+
+## Usage
+
+Press `Ctrl+Shift+P` and search for `Project Management Code Snippets and Boilerplate Generator VS Code Extension` to see all available commands.
+
+**Keyboard shortcut:** `Ctrl+Shift+Alt+A` (or `Cmd+Shift+Alt+A` on Mac)
+
+## Settings
+
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `0c1677df.enabled` | `true` | Enable/disable the extension |
+| `0c1677df.autoRun` | `false` | Auto-run on file open |
+| `0c1677df.logLevel` | `"info"` | Log verbosity |
+
+## Requirements
+
+- VS Code 1.74.0 or higher
+
+## Contributing
+
+Found a bug? [Open an issue](https://github.com/digitalforge/0c1677df/issues).
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | Yes | Yes |
+| Basic snippets | Yes | Yes |
+| Standard themes | Yes | Yes |
+| AI-powered completions | - | Yes |
+| Advanced refactoring | - | Yes |
+| Team sync | - | Yes |
+| Custom keybindings | - | Yes |
+| Priority bug fixes | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cIbJ112Df6Q3lmdI0cZM33)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIbJ112Df6Q3lmdI0cZM33)
+
